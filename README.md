@@ -51,7 +51,7 @@ de incorporar procedimientos para el tratamiento y análisis de imágenes tambi�
 avanzadas para los pasos citados anteriormente.
 
 <p align="center">
-  <img src="readmeFiles/Objetivos/recoMatricula.PNG">
+  <img width="600" height="250" src="readmeFiles/Objetivos/recoMatricula.PNG">
 </p>
 
 
@@ -102,7 +102,7 @@ Partiendo de una descripción de alto nivel del sistema, determinamos que está 
 piezas, tal y como podemos ver en la figura 4.1:
 
 <p align="center">
-  <img width="500" height="400"  src="readmeFiles/Diseño/ArqSistema.PNG">
+  <img width="350" height="350"  src="readmeFiles/Diseño/ArqSistema.PNG">
 </p>
 
 
@@ -145,7 +145,7 @@ Por otro lado, se implementa una técnica propia llamada SelfMethod basada en la
 durante la implementación de las técnicas extraídas de OpenCV.
 
 <p align="center">
-  <img src="readmeFiles/Diseño/locaMatricula.PNG">
+  <img width="700" height="300" src="readmeFiles/Diseño/locaMatricula.PNG">
 </p>
 
 3. **Segmentación de caracteres**: tras haber acotado la matrícula, se segmenta cada uno de los caracteres
