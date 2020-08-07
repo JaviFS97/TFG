@@ -204,4 +204,20 @@ Este patrón está compuesto por tres partes, tal y como se puede observar en la
 
 
 
-# Resultados
+# Resultados (vídeos).
+
+### Sistema reconocimiento de matrículas.
+
+1. Localización de matrícula (click para ver el vídeo completo):
+
+[![PlateDetection](readmeFiles/gifs/plateDetection.gif)](https://www.youtube.com/watch?v=U-PRVG_tCEw)
+
+
+2. Segmentación matrícula (click para ver el vídeo completo): 
+
+[![PlateSegmentation](readmeFiles/gifs/plateSegmentation.gif)](https://youtu.be/qeJeyvbjSN0)
+
+
+## Aplicación web.
+
+## Integración.
