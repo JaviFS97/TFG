@@ -51,7 +51,7 @@ de incorporar procedimientos para el tratamiento y análisis de imágenes tambi�
 avanzadas para los pasos citados anteriormente.
 
 <p align="center">
-  <img width="600" height="250" src="readmeFiles/Objetivos/recoMatricula.PNG">
+  <img width="60%" height="25%" src="readmeFiles/Objetivos/recoMatricula.PNG">
 </p>
 
 
@@ -102,7 +102,7 @@ Partiendo de una descripción de alto nivel del sistema, determinamos que está 
 piezas, tal y como podemos ver en la figura 4.1:
 
 <p align="center">
-  <img width="350" height="350"  src="readmeFiles/Diseño/ArqSistema.PNG">
+  <img width="35%" height="35%"  src="readmeFiles/Diseño/ArqSistema.PNG">
 </p>
 
 
@@ -131,7 +131,7 @@ En concreto, para resolver el reconocimiento de matrículas, será necesario que
 técnicas de procesamiento de imágenes y de reconocimiento de patrones para extraer información
 sobre la matrícula presente en la imagen. Para ello es necesario aplicar cuatro fases:
 
-1. **Captura de la imagen**: esta fase es sustituida por imágenes de vehículos extraídas de la base de datos [13].
+1. **Captura de la imagen**: esta fase es sustituida por imágenes de vehículos extraídas de la base de datos.
 2. **Localización de la matrícula**: fase considerada como la más compleja de todo el proceso de reconocimiento
 de la matrículas, pues entran en juego muchos objetos en la imagen que pueden ofuscar al sistema.
 Como se puede observar en la figura 4.2, la fase parte con la imagen realizada al vehículo. A continuación,
@@ -145,7 +145,7 @@ Por otro lado, se implementa una técnica propia llamada SelfMethod basada en la
 durante la implementación de las técnicas extraídas de OpenCV.
 
 <p align="center">
-  <img width="700" height="300" src="readmeFiles/Diseño/locaMatricula.PNG">
+  <img width="70%" height="30%" src="readmeFiles/Diseño/locaMatricula.PNG">
 </p>
 
 3. **Segmentación de caracteres**: tras haber acotado la matrícula, se segmenta cada uno de los caracteres
@@ -218,6 +218,32 @@ Este patrón está compuesto por tres partes, tal y como se puede observar en la
 [![PlateSegmentation](readmeFiles/gifs/plateSegmentation.gif)](https://youtu.be/qeJeyvbjSN0)
 
 
+2. Reconocimiento de caracteres (click para ver el vídeo completo): 
+
+[![PlateRecognition](readmeFiles/gifs/plateOCR.gif)](https://youtu.be/KxAZL_Y0IHE)
+
+
 ## Aplicación web.
 
+1. Registro de usuario persona (click para ver el vídeo completo): 
+
+[![Registro usuario personal](readmeFiles/gifs/register.gif)](https://youtu.be/AfT378jIdHU)
+
+2. Añadir vehículo en cuenta de usuario personal (click para ver el vídeo completo): 
+
+[![Añadiendo vehículo](readmeFiles/gifs/addVehicule.gif)](https://youtu.be/wU6T4zaMBUI)
+
+3. Añadiendo organizaciones a usuario personal (click para ver el vídeo completo): 
+
+[![Añadiendo organización](readmeFiles/gifs/organization.gif)](https://youtu.be/XSV2a1xULVw)
+
+4. Alquilando garaje (click para ver el vídeo completo): 
+
+[![Alquiler de garaje](readmeFiles/gifs/renting.gif)](https://youtu.be/MymqyFh9FTU)
+
+
 ## Integración.
+
+1. Accediendo al garaje (click para ver el vídeo completo): 
+
+[![Acceder al garaje](readmeFiles/gifs/integration.gif)](https://youtu.be/NXSqHHzDnR0)
