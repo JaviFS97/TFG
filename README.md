@@ -1,3 +1,14 @@
+# Índice y Estructura Principal
+- [Resumen](#resumen)
+- [1. Objetivos](#1-objetivos)
+- [2. Diseño](#2-diseño)
+    + [2.1. Arquitectura del sistema](#21-arquitectura-del-sistema)
+    + [2.2. Arquitectura del sistema de reconocimiento de matrículas](#22-arquitectura-del-sistema-de-reconocimiento-de-matrículas)
+    + [2.3. Arquitectura de la aplicación web](#23-arquitectura-de-la-aplicación-web)
+- [Resultados (vídeos)](#resultados-vídeos)
+    + [Sistema reconocimiento de matrículas.](#sistema-reconocimiento-de-matrículas)
+  * [Aplicación web.](#aplicación-web)
+  * [Integración.](#integración)
 
 # Resumen
 En este Trabajo Fin de Grado se va a desarrollar un **sistema encargado del control y administración 
@@ -204,7 +215,7 @@ Este patrón está compuesto por tres partes, tal y como se puede observar en la
 
 
 
-# Resultados (vídeos).
+# Resultados (vídeos)
 
 ### Sistema reconocimiento de matrículas.
 
